@@ -1,4 +1,3 @@
-# moda-trend-tahmini
 # Tüketici Tercihleri ile Ar-Ge Odaklı Moda Trend Tahmini
 
 ## Proje Hakkında
